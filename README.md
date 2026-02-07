@@ -1,4 +1,4 @@
-# Clinic Revenue Prediction
+# Clinic Revenue Prediction # Patient Data taken out for security reasons
 
 A machine learning project to predict clinic revenue for the next 12 months using historical patient and revenue data from 2021-2023.
 
